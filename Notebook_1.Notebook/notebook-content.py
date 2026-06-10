@@ -15,7 +15,6 @@
 # Type here in the cell editor to add code!
 print("Validación del Lakehouse - Versión 2")
 
-raise Exception("Error de producción")
 
 # METADATA ********************
 
