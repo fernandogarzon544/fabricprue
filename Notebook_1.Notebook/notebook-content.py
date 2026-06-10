@@ -13,8 +13,7 @@
 
 # Welcome to your new notebook
 # Type here in the cell editor to add code!
-print("Validación del Lakehouse - Versión 1")
-print("Validación del Lakehouse - Versión 1.1")
+print("Validación del Lakehouse - Versión 2")
 
 # METADATA ********************
 
